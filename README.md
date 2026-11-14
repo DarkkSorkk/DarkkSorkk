@@ -17,6 +17,7 @@ Founder of [EasyIA](https://easyia.org). I build and run systems on Google Cloud
 | Project | What it shows |
 |---|---|
 | [terraform-google-secure-cloud-run](https://github.com/DarkkSorkk/terraform-google-secure-cloud-run) | Cloud Run with a capped bill, a least-privilege identity, Secret Manager and keyless GitHub deploys from `main` only. Tested with a mocked provider, so CI holds no credential. |
+| [confere-br](https://github.com/DarkkSorkk/confere-br) | Brazilian document checks: CNPJ, including the new alphanumeric format, CPF, the 44-character access key of NF-e, CT-e and MDF-e, and vehicle plates. TypeScript, no runtime dependencies. |
 
 ## Try it live
 
