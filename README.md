@@ -18,6 +18,7 @@ Founder of [EasyIA](https://easyia.org). I build and run systems on Google Cloud
 |---|---|
 | [terraform-google-secure-cloud-run](https://github.com/DarkkSorkk/terraform-google-secure-cloud-run) | Cloud Run with a capped bill, a least-privilege identity, Secret Manager and keyless GitHub deploys from `main` only. Tested with a mocked provider, so CI holds no credential. |
 | [confere-br](https://github.com/DarkkSorkk/confere-br) | Brazilian document checks: CNPJ, including the new alphanumeric format, CPF, the 44-character access key of NF-e, CT-e and MDF-e, and vehicle plates. TypeScript, no runtime dependencies. |
+| [lgpd-rag](https://github.com/DarkkSorkk/lgpd-rag) | Ask Brazil's data protection law (LGPD) and get the provision behind each answer. Code checks every quote, letter by letter, against the official text before anything is shown. Measured on questions written before the code changed, with every answer reviewed by hand and prompt-injection tests. Python, no dependencies. |
 
 ## Try it live
 
